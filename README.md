@@ -1,2 +1,2 @@
 # Quadcopter-Control-through-LQR
-A method to control a quadcopter
+Control a quadcopter through LQR method.
